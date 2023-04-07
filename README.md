@@ -15,3 +15,8 @@ This is the repository that contains all projects related to machine learning, d
   - <a href="https://www.scikit-learn.org">Scikit-learn</a>
   - <a href="https://www.tensorflow.org">TensorFlow</a>
   - <a href="https://www.keras.io">Keras</a>
+
+## Project A: Chronic Kidney Disease Detection Using ML
+- Created an end-to-end machine learning project that uses machine learning classifiers such as SVM, Decision Trees & Random Forests, and deep learning models like feed-forward neural networks (FFNNs) to make an acccurate predictive model for esrly detection of CKD (Chronic Kidney Disease)
+- Optimized the performance of ML classifiers and performed cross validatation to find the best-performing model in both cases of machine & deep learning
+- Attained an accuray of 98% using random forest and 97% using FFNNs
