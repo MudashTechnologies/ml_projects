@@ -20,3 +20,5 @@ This is the repository that contains all projects related to machine learning, d
 - Created an end-to-end machine learning project that uses machine learning classifiers such as SVM, Decision Trees & Random Forests, and deep learning models like feed-forward neural networks (FFNNs) to make an acccurate predictive model for esrly detection of CKD (Chronic Kidney Disease)
 - Optimized the performance of ML classifiers and performed cross validatation to find the best-performing model in both cases of machine & deep learning
 - Attained an accuray of 98% using random forest and 97% using FFNNs
+
+## <a href="https://github.com/MudashTechnologies/ml_projects/tree/main/CKD%20Using%20Machine%20Learning">Project B: ECG Arrhythmia Classification Using Deep Learning</a>
