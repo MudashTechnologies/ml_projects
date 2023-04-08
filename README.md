@@ -26,3 +26,7 @@ This is the repository that contains all projects related to machine learning, d
 - Optimized the performance of deep classifiers and performed cross validatation to find the best-performing model in both cases of CNN & LSTM
 - Attained an overall accuracy of 98% on both cases
 
+## <a href="https://github.com/MudashTechnologies/ml_projects/tree/main/Credit%20Card%20Fraud%20Detection">Project C: Credit Card Fraud Detection Using Machine Learning</a>
+- Created an end-to-end machine learning project that uses machine learning classifiers such as Logistic Regression, SVM & KNN to classify if a given credit card trabsaction is fraudulent or not
+- Optimized the performance of machine classifiers and performed cross validatation to find the best-performing model in all cases
+- Attained an overall accuracy of 99% on both cases
