@@ -25,3 +25,4 @@ This is the repository that contains all projects related to machine learning, d
 - Created an end-to-end machine learning project that uses deep learning classifiers such as Concolutional Neural Networks (CNNs) & Long-Short-Term-Mmeory (LSTM) Network for classifying ECG beats in 5 classes
 - Optimized the performance of deep classifiers and performed cross validatation to find the best-performing model in both cases of CNN & LSTM
 - Attained an overall accuracy of 98% on both cases
+
