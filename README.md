@@ -22,3 +22,6 @@ This is the repository that contains all projects related to machine learning, d
 - Attained an accuray of 98% using random forest and 97% using FFNNs
 
 ## <a href="https://github.com/MudashTechnologies/ml_projects/tree/main/CKD%20Using%20Machine%20Learning">Project B: ECG Arrhythmia Classification Using Deep Learning</a>
+- Created an end-to-end machine learning project that uses deep learning classifiers such as Concolutional Neural Networks (CNNs) & Long-Short-Term-Mmeory (LSTM) Network for classifying ECG beats in 5 classes
+- Optimized the performance of deep classifiers and performed cross validatation to find the best-performing model in both cases of CNN & LSTM
+- Attained an overall accuracy of 98% on both cases
