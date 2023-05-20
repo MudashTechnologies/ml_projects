@@ -30,3 +30,8 @@ This is the repository that contains all projects related to machine learning, d
 - Created an end-to-end machine learning project that uses machine learning classifiers such as Logistic Regression, SVM & KNN to classify if a given credit card trabsaction is fraudulent or not
 - Optimized the performance of machine classifiers and performed cross validatation to find the best-performing model in all cases
 - Attained an overall accuracy of 99% on both cases
+
+## <a href = "https://github.com/MudashTechnologies/ml_projects/tree/main/Fraud%20Detection"> Project D: Mobule Price Classification Using ML</a>
+- Created an end-to-end machine learning project that uses machine learning classifiers such as Logistic Regression, SVM & KNN to classify the price of a goven mobile in a range of 1 to 4
+- Optimized the performance of machine classifiers and performed cross validatation to find the best-performing model in all cases
+- Attained an overall accuracy of more than 95% on all cases
